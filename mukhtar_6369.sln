@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ayman_7415-Challenge-main", "Ayman_7415-Challenge-main", "{3F4E3682-2678-4FB1-8A76-8E3EB5D7384D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{CB85FFE7-AE15-4DC5-ABF1-36148AD7DDFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge", "Ayman_7415-Challenge-main\Files\Challenge\Challenge.csproj", "{08A4F6D3-E8C9-4276-8B78-D59595C47DD6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Regex", "Regex", "{EC5D6B53-2982-455C-B6ED-DED81DF6D109}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge", "Ayman_7415-Challenge-main\Regex\Challenge\Challenge.csproj", "{707CF899-66C8-4DE5-B23D-12712DE23785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08A4F6D3-E8C9-4276-8B78-D59595C47DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A4F6D3-E8C9-4276-8B78-D59595C47DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A4F6D3-E8C9-4276-8B78-D59595C47DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A4F6D3-E8C9-4276-8B78-D59595C47DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707CF899-66C8-4DE5-B23D-12712DE23785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707CF899-66C8-4DE5-B23D-12712DE23785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707CF899-66C8-4DE5-B23D-12712DE23785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707CF899-66C8-4DE5-B23D-12712DE23785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CB85FFE7-AE15-4DC5-ABF1-36148AD7DDFE} = {3F4E3682-2678-4FB1-8A76-8E3EB5D7384D}
+		{08A4F6D3-E8C9-4276-8B78-D59595C47DD6} = {CB85FFE7-AE15-4DC5-ABF1-36148AD7DDFE}
+		{EC5D6B53-2982-455C-B6ED-DED81DF6D109} = {3F4E3682-2678-4FB1-8A76-8E3EB5D7384D}
+		{707CF899-66C8-4DE5-B23D-12712DE23785} = {EC5D6B53-2982-455C-B6ED-DED81DF6D109}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEB6043D-A7A2-48B0-88EC-03D2A2EF7912}
+	EndGlobalSection
+EndGlobal
